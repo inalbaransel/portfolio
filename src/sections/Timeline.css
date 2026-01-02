@@ -1,0 +1,35 @@
+.ball {
+  fill: #fffce1;
+  visibility: hidden;
+  filter: drop-shadow(0 0 8px rgba(255, 252, 225, 0.3));
+}
+
+.line {
+  fill: none;
+  stroke: rgba(255, 252, 225, 0.3);
+  stroke-width: 2px;
+}
+
+text {
+  fill: #fffce1;
+  font-size: 15px;
+  visibility: hidden;
+  font-weight: 500;
+  text-shadow: 0 0 10px rgba(255, 252, 225, 0.3);
+}
+
+.theLine {
+  stroke: #fffce1;
+  filter: drop-shadow(0 0 8px rgba(255, 252, 225, 0.3));
+}
+
+#education-timeline, #work-timeline {
+  overflow: visible;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+image {
+  filter: drop-shadow(0 0 10px rgba(255, 252, 225, 0.2));
+  border-radius: 10px;
+}
