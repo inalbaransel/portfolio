@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Portfolio: [baransel.site](https://baransel.site)
 - GitHub: [@inalbaransel](https://github.com/inalbaransel)
-- LinkedIn: [Baransel İnal](https://linkedin.com/in/baranselinal)
+- LinkedIn: [Baransel İnal](https://linkedin.com/in/inalbaransel)
 
 ---
 
